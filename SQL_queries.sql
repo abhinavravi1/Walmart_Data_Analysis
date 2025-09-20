@@ -1,5 +1,5 @@
 -- Q1: Find different payment methods, number of transactions, and quantity sold by payment method
-```sql
+```sq
 SELECT 
     payment_method,
     COUNT(*) AS no_payments,
