@@ -1,4 +1,4 @@
-###Walmart Data Analysis Project
+###Walmart Data Analysis Project###
 
 An end-to-end data analysis project on Walmart sales data using Python and SQL to extract business insights and answer critical business questions.
 
